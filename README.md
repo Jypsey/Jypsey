@@ -17,7 +17,3 @@ I'm a passionate programmer and tech enthusiast currently pursuing a B.Tech in A
  🎉 Fun Fact: I'm an overthinker and finding inspiration in the most unexpected places.</br>
 
 <br><br>💬 Connect with Me<br><br>Feel free to reach out and connect with me! I'm always excited to collaborate on interesting projects or simply have a chat about technology, programming, or your favorite anime series.<br><br>📫 How to Reach Me<br><br>You can find me on [Telegram](https://telegram.me/AdishSuresh). Let's create something amazing together!<br>
-
-
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@themalludev) 
